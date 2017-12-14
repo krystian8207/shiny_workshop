@@ -1,0 +1,23 @@
+.img-code > pre {
+  margin: 0;
+  width: 100%;
+  max-width:100%;
+}
+
+.img-code > pre > code.r {
+  padding-right: 0 !important;
+}
+
+.section .reveal .state-background {
+    background-image: url("assets/title2.png") !important;
+    background-attachment: fixed;
+      background-repeat: no-repeat;
+}
+
+.reveal .state-background {
+  background-image: url("assets/logo2.png") !important;
+  background-repeat: no-repeat;
+  background-size: 15%;
+  background-attachment: fixed;
+  background-position: right top;
+}
